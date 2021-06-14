@@ -17,13 +17,13 @@ channels=1
 sampwidth=2
 TIME=8
 
-ID= '15667585'
-CUID = "hulu_play"
-server = "https://openapi.baidu.com/oauth/2.0/token?"
-grant_type = "client_credentials"
-client_id = "WmqTNQvhzQKCW9woBeOzGtWi"
-client_secret = "E4yFMs9k1lAb6PiCXWbtEUAVMrtxS1zi" 
-url ="%sgrant_type=%s&client_id=%s&client_secret=%s"%(server,grant_type,client_id,client_secret)
+ID= 
+CUID = 
+server = 
+grant_type = 
+client_id = 
+client_secret = 
+url =
 
 while True:
     
